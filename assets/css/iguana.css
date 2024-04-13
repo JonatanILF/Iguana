@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+    
+}
+.Titulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+}
+    
+    
+.caeza{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    }
+.caeza img{
+    width: 100%;
+}
+.Main{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+.texto{
+    width: 49%;
+    color: white;
+    float: left;
+    font-size: 16px;
+    margin: 10% 10% 10% 10%;
+    text-align: justify;
+}
+.box img{
+    width: 69%;
+    margin: 1.5em
+}
+
+.Caracteristicas {
+    text-align: center;
+    background-color: #1E1A13;
+    color: white;
+    width: 100%;
+    padding-bottom: 1.5em;
+}
+.Caracteristicas h2{
+    font-size: 100px;
+    padding-top: 0.5em;
+    padding-bottom: 0em;
+}
+
+table{
+    margin: auto;
+    
+    
+    
+}
+
+
+th{
+    width: 33%;
+    font-size: 80px;
+    
+
+}
+td{
+    width: 33%;
+    font-size: 40px;
+    padding: 0.5em;
+}
+.Galeria{
+    justify-content: space-around;
+    margin: 2.5em;
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxes{
+    
+    width: 30%;
+    padding: 1em;
+}
+ .boxes img{
+    width: 100%;
+ }
+ .Pie p{
+    color: white;
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 1em;
+    margin: 0;
+ }
+    
+
+
